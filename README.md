@@ -1,5 +1,6 @@
 # timelib
 Initial repository for a time library written in C.
+
 Co-author in this repository: *M. Hedderich* 
 
 ## how to run timelib
