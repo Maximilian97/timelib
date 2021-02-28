@@ -6,7 +6,7 @@ Co-author in this repository: *M. Hedderich*
 ## how to run timelib
 
 - Clone the repository
-- Compile both the main and the dayOfYear file
+- Compile both the main and the functions file
 - Alternatively: open the cbp file with CodeBlocks
 
 # functions
