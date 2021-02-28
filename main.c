@@ -14,8 +14,11 @@
 //main function
 int main()
 {
+    //variable declaration
     int day, month, year;
 
+    //getting input
     input_date(&day, &month, &year);
+    //output of result
     ResultMsg day_of_the_year(day, month, year) End
 }
