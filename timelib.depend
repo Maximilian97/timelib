@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1614529953 source:c:\users\mhedderich\timelib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1614530187 c:\users\mhedderich\timelib\functions.h
+
+1614530184 source:c:\users\mhedderich\timelib\functions.c
+	<stdio.h>
+	<stdlib.h>
+
