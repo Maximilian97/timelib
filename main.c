@@ -15,10 +15,10 @@
 int main()
 {
     //variable declaration
-    int day, month, year;
+    struct date dateForCheck;
 
     //getting input
-    input_date(&day, &month, &year);
+    input_date(&dateForCheck);
     //output of result
-    ResultMsg day_of_the_year(day, month, year) End
+    ResultMsg day_of_the_year(dateForCheck) End
 }
